@@ -7,10 +7,17 @@ available_fruits = ["banana", "blueberry", "mango", "peach", "orange"]
 
 
 select_word = select_random_word(available_fruits)
+<<<<<<< HEAD
 print(select_word)
 
 
 def check_guess(guess): # Function to check the guessed letter
+=======
+
+
+
+def check_guess(guess): # Task 2 - Function to check the guessed letter
+>>>>>>> 4867111 (Updates milestone_3.py)
     guess = guess.lower()
 
     if guess in select_word:
@@ -19,7 +26,11 @@ def check_guess(guess): # Function to check the guessed letter
         print(f"Sorry, {guess} is not in the word. Try again.")
 
 
+<<<<<<< HEAD
 def ask_for_input(select_word): # Function to ask for input
+=======
+def ask_for_input(select_word): # Task 1 - Function to ask for input
+>>>>>>> 4867111 (Updates milestone_3.py)
     while True:
         guess = input("Guess the next letter: ")
     
