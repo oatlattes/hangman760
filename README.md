@@ -4,13 +4,17 @@ In this project I'm following the AiCore's tasks as follows:
 1.  milestone_2.py:
       - Task 1: Define the list of possible words.
       - Task 2: Choose a random word from the list.
-      - Task 3 - Ask the user for an input.
+      - Task 3 - Ask the user for input.
       - Task 4: Check that the input is a single character.
       - Task 5: Start documenting your experience [aka this README.md file].
       - Task 6: Update the latest code changes to GitHub.
 
 2. optimised_milestone_2.py:
       - Task 7: Refactor and optimase current code.
+
+3. milestone_3.py:
+      - Task 1: Ask the user for input.
+      - Task 2: The function checks the guessed letter
 
 
 _________________________________________________________________________________________________________________________________________________
