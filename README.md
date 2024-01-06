@@ -14,7 +14,13 @@ In this project I'm following the AiCore's tasks as follows:
 
 3. milestone_3.py:
       - Task 1: Ask the user for input.
-      - Task 2: The function checks the guessed letter
+      - Task 2: The function checks the guessed letter.
+
+4. milestone_4.py:
+      - Task 1: Create the class Hangman.
+      - Task 2: Create methods for running the checks.
+      - Task 3: Define what happens if the letter is in the word.
+      - Task 4: Define what happens if the letter is NOT in the word.
 
 
 _________________________________________________________________________________________________________________________________________________
