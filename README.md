@@ -22,6 +22,9 @@ In this project I'm following the AiCore's tasks as follows:
       - Task 3: Define what happens if the letter is in the word.
       - Task 4: Define what happens if the letter is NOT in the word.
 
+5. milestone_5.py:
+      - Task 1: Code the logic of the game.
+
 
 _________________________________________________________________________________________________________________________________________________
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
